@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=L33Z22L11)
 
-- 🔭 I’m currently working on [Zhilu's new site](//zhilu.cyou).
+- 🔭 I’m currently working on [Zhilu's new site](//zhilu.cyou), [Class16's Blog](class16.vercel.app).
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 😄 Pronouns: 纸鹿, Zhilu, L33Z22L11
 <!--
